@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTwoDimensionalArrays", "HomeWorkTwoDimensionalArrays\HomeWorkTwoDimensionalArrays.csproj", "{E96667C3-05C9-4638-A917-46DC3B3ACEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTwoDimensionalArrays1", "HomeWorkTwoDimensionalArrays1\HomeWorkTwoDimensionalArrays1.csproj", "{9122A33E-3584-4FDE-90B2-15C397E7C685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTwoDimensionalArrays2", "HomeWorkTwoDimensionalArrays2\HomeWorkTwoDimensionalArrays2.csproj", "{B82CFAD8-729A-4CC7-9789-83CE64F2BED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTwoDimensionalArrays3", "HomeWorkTwoDimensionalArrays3\HomeWorkTwoDimensionalArrays3.csproj", "{93FBDE60-EEDF-4F04-989E-AB669E0C1E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTwoDimensionalArrays4", "HomeWorkTwoDimensionalArrays4\HomeWorkTwoDimensionalArrays4.csproj", "{17E21155-829E-4A94-A99C-96C74814F1D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTwoDimensionalArrays5", "HomeWorkTwoDimensionalArrays5\HomeWorkTwoDimensionalArrays5.csproj", "{EBBB772F-0597-4CB1-B2C8-CC5790C1107D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E96667C3-05C9-4638-A917-46DC3B3ACEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96667C3-05C9-4638-A917-46DC3B3ACEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96667C3-05C9-4638-A917-46DC3B3ACEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96667C3-05C9-4638-A917-46DC3B3ACEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9122A33E-3584-4FDE-90B2-15C397E7C685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9122A33E-3584-4FDE-90B2-15C397E7C685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9122A33E-3584-4FDE-90B2-15C397E7C685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9122A33E-3584-4FDE-90B2-15C397E7C685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82CFAD8-729A-4CC7-9789-83CE64F2BED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82CFAD8-729A-4CC7-9789-83CE64F2BED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82CFAD8-729A-4CC7-9789-83CE64F2BED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82CFAD8-729A-4CC7-9789-83CE64F2BED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FBDE60-EEDF-4F04-989E-AB669E0C1E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FBDE60-EEDF-4F04-989E-AB669E0C1E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FBDE60-EEDF-4F04-989E-AB669E0C1E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FBDE60-EEDF-4F04-989E-AB669E0C1E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E21155-829E-4A94-A99C-96C74814F1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E21155-829E-4A94-A99C-96C74814F1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E21155-829E-4A94-A99C-96C74814F1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E21155-829E-4A94-A99C-96C74814F1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBB772F-0597-4CB1-B2C8-CC5790C1107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBB772F-0597-4CB1-B2C8-CC5790C1107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBB772F-0597-4CB1-B2C8-CC5790C1107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBB772F-0597-4CB1-B2C8-CC5790C1107D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
